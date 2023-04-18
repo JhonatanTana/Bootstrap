@@ -1,0 +1,34 @@
+body{
+    background-color: lightgray;
+}
+
+.container-fluid {
+    background-color:brown ;
+    padding: 10px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.carousel-inner {
+    width: 1200px;
+    height: 300px;
+    padding: 0;
+}
+
+.card-2, .card {
+    margin-top: 50px;
+}
+
+.card-list {
+    justify-content: space-evenly;
+    margin-top: 50px;
+    display: flex;
+}
+
+.pages{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
